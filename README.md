@@ -224,6 +224,12 @@ If you'd like to improve this project, feel free to **fork** and submit a **pull
 
 ---
 
+## 🌐 **My Portfolio**
+For more details about my work and other projects, please visit my portfolio:  
+🔗 **[Your Portfolio Link](https://krithik.onrender.com/)**  
+
+---
+
 ## 🙏 **Thank You!**
 I sincerely appreciate the opportunity to complete this **backend API project** as part of my **internship selection**.  
 Thank you for reviewing my work! I look forward to contributing and growing with the team. 🚀
