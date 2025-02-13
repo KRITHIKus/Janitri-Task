@@ -43,6 +43,32 @@ npm start
 
 ---
 
+## 🛠 **Testing the API**
+I used **[Insomnia](https://insomnia.rest/)** to test the API endpoints.  
+You can also test the API using **Postman or cURL**.
+
+✅ **Steps to test with Insomnia:**
+1. **Download & Install Insomnia**: [Download Here](https://insomnia.rest/download)
+2. **Create a New Request**:
+   - Set the **method** (e.g., `POST`, `GET`)
+   - Enter the API **URL** (e.g., `http://localhost:5000/users/register`)
+   - Add **JSON data** in the request body
+   - Include **Authorization Headers** for protected routes
+3. **Click "Send"** and verify the response.
+
+Example of a **POST /users/register** request in Insomnia:
+```json
+{
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "password123"
+}
+```
+
+✅ **All endpoints were successfully tested and working as expected!** 🎯  
+
+---
+
 ## 📌 **API Documentation**
 ### **1️⃣ User Registration**
 - **URL:** `POST /users/register`
@@ -194,5 +220,12 @@ If you'd like to improve this project, feel free to **fork** and submit a **pull
 ---
 
 ## 🔗 **Repository Link**
-[GitHub Repo](https://github.com/KRITHIKus/Janitri-Task.git)
+[GitHub Repo](https://github.com/your-username/janitri-backend-api)
 
+---
+
+## 🙏 **Thank You!**
+I sincerely appreciate the opportunity to complete this **backend API project** as part of my **internship selection**.  
+Thank you for reviewing my work! I look forward to contributing and growing with the team. 🚀
+
+---
